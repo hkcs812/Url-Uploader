@@ -43,6 +43,18 @@ Video  - Give File as video without Screenshots
 File  - Give File without Screenshots
 
 """
+    
+    ABOUT = """
+⭕ NAME      : URL Uploader
+
+⭕ CREATOR   : HKZ ᴵᴺᴰ🇮🇳
+
+⭕ LANGUAGE  : PYTHON3
+
+⭕ FRAMEWORK : PYROGRAM
+
+⭕ COUNTRY   : INDIA🇮🇳
+"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
