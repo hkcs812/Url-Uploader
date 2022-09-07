@@ -48,6 +48,8 @@ async def help_user(bot, update):
         photo=random.choice(PICS)
         caption=Translation.ABOUT_TEXT,
         reply_markup= InlineKeyboardMarkup( [[
+            InlineKeyboardButton("SOURCE ❤", url="https://github.com/hkcs812/Url-Uploader")
+            ],[
             InlineKeyboardButton("HOME 🏡", callback_data='close'),
             InlineKeyboardButton("CLOSE 🔐", callback_data='close')
             ]]
