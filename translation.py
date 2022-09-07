@@ -32,7 +32,7 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 """
     
-    HELP = """Hi I am URL Uploader bot 🔥
+    HELP_TEXT = """Hi I am URL Uploader bot 🔥
     
 Send url (Link|New Name with Extension).
 Send Custom Thumbnail (Optional).
@@ -44,7 +44,7 @@ File  - Give File without Screenshots
 
 """
     
-    ABOUT = """
+    ABOUT_TEXT = """
 ⭕ NAME      : URL Uploader
 
 ⭕ CREATOR   : HKZ ᴵᴺᴰ🇮🇳
